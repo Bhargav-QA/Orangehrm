@@ -1,0 +1,102 @@
+2026-04-02 07:51:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\Orangehrm\testng.xml
+
+2026-04-02 07:51:49 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 07:51:50 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 07:51:50 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 07:55:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\Orangehrm\testng.xml
+
+2026-04-02 07:55:20 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 07:55:21 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 07:55:21 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 07:59:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\Orangehrm\testng.xml
+
+2026-04-02 08:00:00 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 08:00:00 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 08:00:00 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 08:00:09 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 08:00:10 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 08:00:10 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 08:03:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\Orangehrm\testng.xml
+
+2026-04-02 08:03:57 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 08:03:58 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 08:03:58 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 10:06:03 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 10:06:05 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 10:06:05 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 10:09:52 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 10:09:53 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 10:09:53 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 10:10:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\Orangehrm\testng.xml
+
+2026-04-02 10:11:05 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 10:11:07 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 10:11:07 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 10:11:57 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 10:12:00 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 10:12:00 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 10:14:46 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 10:14:47 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 10:14:47 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 10:14:55 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 10:14:56 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 10:14:56 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 10:52:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\Orangehrm\CrossBrowsertestng.xml
+
+2026-04-02 10:55:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\Orangehrm\CrossBrowsertestng.xml
+
+2026-04-02 10:55:19 [TestNG-tests-1] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 10:55:20 [TestNG-tests-2] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 10:55:22 [TestNG-tests-3] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 10:55:25 [TestNG-tests-3] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 10:55:25 [TestNG-tests-3] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 10:55:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\Orangehrm\CrossBrowsertestng.xml
+
+2026-04-02 10:55:44 [TestNG-tests-1] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 10:55:44 [TestNG-tests-2] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 10:55:46 [TestNG-tests-3] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 10:55:48 [TestNG-tests-1] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 10:55:48 [TestNG-tests-1] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 11:00:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\Orangehrm\testng.xml
+
+2026-04-02 11:00:38 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 11:00:39 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 11:00:39 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 11:00:55 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 11:00:56 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 11:00:56 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 11:01:51 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 11:01:53 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 11:01:53 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 11:02:01 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 11:02:04 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 11:02:04 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 11:02:33 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 11:02:33 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 11:02:33 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 11:02:39 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 11:02:40 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 11:02:40 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 11:26:21 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 11:26:23 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 11:26:23 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 11:26:31 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 11:26:33 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 11:26:33 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 11:27:46 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 11:27:47 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 11:27:47 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 11:27:54 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 11:29:58 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started
+2026-04-02 11:29:59 [main] INFO  testCases.LoginToOrangeHrm_01 - Application logged in sucessfully
+2026-04-02 11:29:59 [main] INFO  testCases.LoginToOrangeHrm_01 - Test Case completed
+2026-04-02 11:30:05 [main] INFO  testCases.LoginToOrangeHrm_01 - Test case started

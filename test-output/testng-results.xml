@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-02T11:00:31 IST" name="Suite" finished-at="2026-04-02T11:00:58 IST" duration-ms="27022">
+    <groups>
+      <group name="Sanity">
+        <method signature="LoginToOrangeHrm_01.verfylogin()[pri:0, instance:testCases.LoginToOrangeHrm_01@7f36662c]" name="verfylogin" class="testCases.LoginToOrangeHrm_01"/>
+        <method signature="LoginToOrangeHrm_01.verfylogin()[pri:0, instance:testCases.LoginToOrangeHrm_01@54c62d71]" name="verfylogin" class="testCases.LoginToOrangeHrm_01"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test started-at="2026-04-02T11:00:31 IST" name="Test" finished-at="2026-04-02T11:00:41 IST" duration-ms="9493">
+      <class name="testCases.LoginToOrangeHrm_01">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginToOrangeHrm_01@7f36662c]" started-at="2026-04-02T11:00:31 IST" name="setup" finished-at="2026-04-02T11:00:38 IST" duration-ms="6851" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verfylogin()[pri:0, instance:testCases.LoginToOrangeHrm_01@7f36662c]" started-at="2026-04-02T11:00:38 IST" name="verfylogin" finished-at="2026-04-02T11:00:39 IST" duration-ms="720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfylogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginToOrangeHrm_01@7f36662c]" started-at="2026-04-02T11:00:41 IST" name="teardown" finished-at="2026-04-02T11:00:41 IST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.LoginToOrangeHrm_01 -->
+    </test> <!-- Test -->
+    <test started-at="2026-04-02T11:00:42 IST" name="Test2" finished-at="2026-04-02T11:00:58 IST" duration-ms="16196">
+      <class name="testCases.LoginToOrangeHrm_01">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginToOrangeHrm_01@54c62d71]" started-at="2026-04-02T11:00:42 IST" name="setup" finished-at="2026-04-02T11:00:55 IST" duration-ms="13382" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verfylogin()[pri:0, instance:testCases.LoginToOrangeHrm_01@54c62d71]" started-at="2026-04-02T11:00:55 IST" name="verfylogin" finished-at="2026-04-02T11:00:56 IST" duration-ms="969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfylogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginToOrangeHrm_01@54c62d71]" started-at="2026-04-02T11:00:58 IST" name="teardown" finished-at="2026-04-02T11:00:58 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.LoginToOrangeHrm_01 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
